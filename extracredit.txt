@@ -1,2 +1,17 @@
-Use this file to submit the extra credit problem. Be sure to describe your
-process for solving the problem, and not just to give the solution. 
+Answer:
+I WISH IT NEED NOT HAVE HAPPENED IN MY TIME,’ SAID
+FRODO.
+
+‘SO DO I,’ SAID GANDALF, ‘AND SO DO ALL WHO LIVE TO
+SEE SUCH TIMES. BUT THAT IS NOT FOR THEM TO DECIDE.
+ALL WE HAVE TO DECIDE IS WHAT TO DO WITH THE TIME
+THAT IS GIVEN, US.
+
+Explanation:
+I modified the Caesar Cipher program given on the course website to iterate
+over a vector of keys from 1 to 25, which allowed me to print a decrypted 
+message corresponding to every possible offset. This process required closing 
+and reopening the input file for each iteration, as well as printing a few line
+breaks each time to allow me to parse through the output more quickly. Ultimately, 
+once I had run the program, it was simply a matter of finding the plain 
+English text, which is listed above.
